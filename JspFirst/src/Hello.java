@@ -2,5 +2,8 @@
 public class Hello {
 
 	public int id;
-	public String uname;
+
+	public String name;
+	
+
 }
